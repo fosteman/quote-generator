@@ -1,0 +1,14 @@
+{
+  "name": "@timfosteman/quote-generator",
+  "version": "1.0.4",
+  "description": "returns promise of a quote object with properties: test, author",
+  "main": "index.js",
+  "keywords": [
+    "client",
+    "api",
+    "fetch",
+    "component"
+  ],
+  "author": "Timofei Shchepkin",
+  "license": "MIT"
+}
